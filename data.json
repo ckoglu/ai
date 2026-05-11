@@ -1,32 +1,6 @@
 {
   "version": "1.0",
   "last_update": "09.05.2026",
-  "chips": [
-    { "prompt": "JavaScript'te debounce fonksiyonu nasıl yazılır?", "label": "⚡ debounce fonksiyonu" },
-    { "prompt": "React'te useState ve useEffect arasındaki fark nedir?", "label": "⚛️ useState vs useEffect" },
-    { "prompt": "Bana bir Python ile dosya okuma örneği ver", "label": "🐍 Python dosya okuma" },
-    { "prompt": "CSS Grid ve Flexbox ne zaman kullanılmalı?", "label": "🎨 Grid mi Flexbox mı?" },
-    { "prompt": "TypeScript'te generic type nasıl kullanılır?", "label": "🔷 TypeScript generics" },
-    { "prompt": "Node.js'te async/await ile hata yönetimi nasıl yapılır?", "label": "🟢 async/await hataları" },
-    { "prompt": "SQL'de JOIN türleri nelerdir, örnekle açıkla", "label": "🗄️ SQL JOIN türleri" },
-    { "prompt": "Git'te rebase ve merge arasındaki fark nedir?", "label": "🔀 rebase vs merge" },
-    { "prompt": "REST API ile GraphQL arasındaki farklar nelerdir?", "label": "🌐 REST vs GraphQL" },
-    { "prompt": "Docker container ile image arasındaki fark nedir?", "label": "🐳 Docker temelleri" },
-    { "prompt": "CSS'te position: absolute ve relative farkı nedir?", "label": "📐 absolute vs relative" },
-    { "prompt": "JavaScript'te closure nedir, örnek ver", "label": "🔒 closure nedir?" },
-    { "prompt": "Python'da list comprehension nasıl kullanılır?", "label": "🐍 list comprehension" },
-    { "prompt": "Regex ile email doğrulama nasıl yapılır?", "label": "✅ regex email doğrulama" },
-    { "prompt": "Linux'ta en çok kullanılan komutlar nelerdir?", "label": "🐧 Linux komutları" },
-    { "prompt": "Web performansını artırmak için neler yapılabilir?", "label": "🚀 web performansı" },
-    { "prompt": "JWT token nasıl çalışır, güvenli midir?", "label": "🔐 JWT nasıl çalışır?" },
-    { "prompt": "MongoDB ile PostgreSQL arasındaki farklar nelerdir?", "label": "🗃️ MongoDB vs PostgreSQL" },
-    { "prompt": "CSS animasyonu nasıl yapılır, örnek ver", "label": "🎬 CSS animasyonu" },
-    { "prompt": "Vue.js ile React arasındaki temel farklar nelerdir?", "label": "⚡ Vue vs React" },
-    { "prompt": "Bir API rate limiting nasıl uygulanır?", "label": "🛡️ rate limiting" },
-    { "prompt": "WebSocket nedir, ne zaman kullanılır?", "label": "🔌 WebSocket nedir?" },
-    { "prompt": "Python'da decorator nasıl yazılır?", "label": "🎀 Python decorator" },
-    { "prompt": "Tailwind CSS'e nasıl başlanır?", "label": "💨 Tailwind CSS başlangıç" }
-  ],
   "models": [
     {
       "no": 1,
