@@ -33,14 +33,16 @@
       "model": "qwen3-coder:30b",
       "name": "coder",
       "url": "https://ollama.com/library/qwen3-coder:30b",
-      "note": "Alibaba'nın ajanik ve kodlama görevleri için performanslı uzun bağlam modelleri."
+      "note": "Alibaba'nın ajanik ve kodlama görevleri için performanslı uzun bağlam modelleri.",
+      "think": false
     },
     {
       "no": 2,
       "model": "gemma4:e2b-it-q4_K_M",
       "name": "günlük",
       "url": "https://ollama.com/library/gemma4:e2b-it-q4_K_M",
-      "note": "Gemma 4 modelleri, her boyutta sınır seviyesinde performans sunacak şekilde tasarlanmıştır."
+      "note": "Gemma 4 modelleri, her boyutta sınır seviyesinde performans sunacak şekilde tasarlanmıştır.",
+      "think": true
     }
   ]
 }
